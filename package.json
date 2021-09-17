@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/fernandobhz/config-get-fresh#readme",
   "dependencies": {
-    "config": "^3.3.6"
+    "config": "^3.3.6",
+    "js-yaml": "^4.1.0"
   }
 }
